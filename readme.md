@@ -1,1 +1,1 @@
-<h1 style= "align-items: center justify-content: center;"> EasyPeasy </h1>
+<h1 style= "text-align;"> EasyPeasy </h1>
