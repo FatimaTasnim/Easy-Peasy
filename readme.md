@@ -1,4 +1,4 @@
-<h1> EasyPeasy </h1>
+<h1 align= "center"> EasyPeasy </h1>
 
 <h2> About EasyPeasy </h2>
 <p1>
