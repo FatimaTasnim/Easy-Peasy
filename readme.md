@@ -8,8 +8,9 @@
 
 <h2> Key Features </h2>
 <p2>
-     -> User can Add new book advertisement along with book condition(new/old).<br>
-     -> User can review a book.<br>
-     -> User can see book abvertisement and reviews on a book before buying a book.<br>
-     -> User can remove and edit their book review and book advertisement at any time.<br>
+     - User can Add new book advertisement along with book condition(new/old).<br>
+     - User can review a book.<br>
+     - User can see book abvertisement and reviews on a book before buying a book.<br>
+     - User can remove and edit their book review and book advertisement at any time.<br>
 </p2>
+
